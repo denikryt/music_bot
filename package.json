@@ -9,6 +9,7 @@
     "mongodb": "4.13",
     "mongoose": "^6.8.4",
     "node-telegram-bot-api": "^0.61.0",
+    "puppeteer": "^19.6.3",
     "telegram-keyboard": "^2.3.2",
     "youtube-metadata-from-url": "^1.0.3"
   }
