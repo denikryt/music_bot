@@ -1,7 +1,7 @@
 const { userSchema, trackSchema } = require('./models.js');
 const mongoose = require('mongoose');
 
-// const uri = 'mongodb+srv://denchik:D3778228545dan@cluster0.ntwfb.mongodb.net/test?retryWrites=true&w=majority'
+// const uri = ''
 
 // const client = new MongoClient(uri);
 
