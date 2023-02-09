@@ -5,7 +5,7 @@ const youtube = require('youtube-metadata-from-url');
 const { Keyboard, Key } = require('telegram-keyboard')
 const database = require('./database.js');
 
-const token = '5301226184:AAFeEf2yfBMjjBFEZgVEk9eSFQP4VilACUY';
+const token = '';
 
 const bot = new TelegramBot(token, {polling: true});
 
